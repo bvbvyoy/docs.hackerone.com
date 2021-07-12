@@ -10,6 +10,7 @@ All captured packet data will be securely deleted from all HackerOne systems aft
 * Troubleshooting and debugging
 * Incident responses
 * Generating statistics for reports to programs
+* Improving delivery of programs and services
 
 HackerOne will not use the captured packet data for any other purposes and will only be shared with the program. The program may retain the data for compliance and auditing.
 
@@ -25,7 +26,7 @@ To join a program that uses VPN and to set up the HackerOne Gateway (VPN):
 1. Click **View Invitation** in the email for the Gateway program you’ve been invited to.
 2. Look over the program details on the program page.
 3. Click **Start hacking** to join the program.
-4. Click **Configure VPN** in the banner on the program page. This will take you to the main Gateway (VPN) page where you can configure your VPN on HackerOne. You can also visit the Gateway (VPN) page directly by going to: https://hackerone.com/setting/vpn
+4. Click **Configure VPN** in the banner on the program page. This will take you to the main Gateway (VPN) page where you can configure your VPN on HackerOne. You can also visit the Gateway (VPN) page directly by going to: https://hackerone.com/settings/vpn
 
 ![banner to configure VPN](./images/gateway-1.png)
 

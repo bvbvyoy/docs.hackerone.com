@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Hacker0x01/docs.hackerone.com.svg?branch=master)](https://travis-ci.com/Hacker0x01/docs.hackerone.com)
+[![Gatsby Publish](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml)
 
 # docs.hackerone.com
 
@@ -25,6 +25,8 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 1. `open http://localhost:8000` to open the site in your favorite browser
 
 ### Deploy
+
+Deploys are automated using GitHub actions. Every commit to the master branch will trigger a script that will build and deploy the site to production. If you want to deploy manually, follow the steps below:
 
 1. `cd docs.hackerone.com` to go into the project root
 1. `yarn deploy`

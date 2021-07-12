@@ -9,12 +9,15 @@
       path: /programs/product-offerings.html
     - title: Program Starting Point
       path: /programs/program-starting-point.html
-    - title: Private vs Public Programs
-      path: /programs/private-vs-public-programs.html
-    - title: Parent/Child Programs
-      path: /programs/parent-child-programs.html
-    - title: Password Best Practices
-      path: /programs/passwords.html
+    - title: Program Types
+      path: /programs/program-types.html
+      items:
+        - title: Private vs. Public Programs
+          path: /programs/private-vs-public-programs.html
+        - title: Parent/Child Programs
+          path: /programs/parent-child-programs.html
+        - title: VDP vs. BBP
+          path: /programs/vdp-vs-bbp.html
     - title: Using Markdown
       path: /programs/using-markdown.html
     - title: Running a Good Program
@@ -144,17 +147,6 @@
           path: /programs/limiting-disclosed-information.html
     - title: Retesting
       path: /programs/retesting.html
-    - title: Automation
-      path: /programs/automation.html
-      items:
-        - title: Common Responses
-          path: /programs/common-responses.html
-        - title: Triggers
-          path: /programs/triggers.html
-        - title: Hackbot
-          path: /programs/hackbot.html
-    - title: Reducing Noise
-      path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
@@ -167,6 +159,8 @@
       path: /programs/api-tokens.html
     - title: Assembla
       path: /programs/assembla-integration.html
+    - title: Azure DevOps
+      path: /programs/azure-devops-integration.html
     - title: Bugzilla
       path: /programs/bugzilla-integration.html
     - title: Freshdesk
@@ -177,8 +171,8 @@
       path: /programs/gitlab-integration.html
     - title: HackEDU
       path: /programs/hackedu-integration.html
-    - title: IBM Resilient
-      path: /programs/ibm-resilient.html
+    - title: IBM Security SOAR
+      path: /programs/ibm-security-soar.html
     - title: Jira
       path: /programs/jira-integration.html
       items:
@@ -231,6 +225,8 @@
     - title: Dashboards
       path: /programs/dashboards.html
       items:
+        - title: Program Overview
+          path: /programs/program-overview.html
         - title: Submissions Dashboard
           path: /programs/submissions-dashboard.html
         - title: Statistics Dashboard
@@ -260,8 +256,8 @@
       path: /programs/hacker-reviews.html
     - title: Disclosure Assistance
       path: /programs/disclosure-assistance.html
-    - title: Advanced Vetting
-      path: /programs/advanced-vetting.html
+    - title: HackerOne Clear
+      path: /programs/hackerone-clear.html
     - title: Gateway
       path: /programs/hackerone-vpn.html
       items:
@@ -275,6 +271,15 @@
       path: /programs/pentest-faqs.html
 - title: Helpful Tools
   items:
+    - title: Automation
+      path: /programs/automation.html
+      items:
+        - title: Common Responses
+          path: /programs/common-responses.html
+        - title: Triggers
+          path: /programs/triggers.html
+        - title: Hackbot
+          path: /programs/hackbot.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Embedded Submission Form
@@ -283,5 +288,13 @@
       path: /programs/import-vulnerabilities.html
     - title: IP Allowlists
       path: /programs/ip-allowlists.html
+    - title: Multi-Party Coordination
+      path: /programs/multi-party-coordination.html
+    - title: Password Best Practices
+      path: /programs/passwords.html
+    - title: Proof of Compliance
+      path: /programs/proof-of-compliance.html
     - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
+    - title: Reducing Noise
+      path: /programs/reducing-noise.html
